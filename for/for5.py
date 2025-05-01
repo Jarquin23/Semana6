@@ -7,5 +7,5 @@ def numerosPares(numero=0):
 def main():
     numero = int(input("Ingrese un numero positivo: "))
     numerosPares(numero)
-    tablaMultiplicar(num)
+    tablaMultiplicar(numero)
 main()
